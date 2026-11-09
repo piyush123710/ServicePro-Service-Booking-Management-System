@@ -1,0 +1,6 @@
+{
+  "name": "ServicePro – Service Booking & Management System",
+  "description": "Enterprise service booking platform for HVAC, plumbing, electrical, and cleaning with role-based dispatch, real-time tracking, JWT security, and Azure cloud architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
